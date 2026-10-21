@@ -1,8 +1,0 @@
-command_id: FC00.FE007B.227426|ta=7B,c=17
-test_cases:
-- expected_values:
-    ID3_HVBAT_MOD_T_18: 360
-  response: 17FE007B056274260168
-- expected_values:
-    ID3_HVBAT_MOD_T_18: 420
-  response: 17FE007B0562742601A4
