@@ -1,0 +1,32 @@
+command_id: 744.7AE.221DDA|fc=1
+test_cases:
+- expected_values:
+    ID3_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE210439CCCCCCCCCC
+- expected_values:
+    ID3_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE21043ACCCCCCCCCC
+- expected_values:
+    ID3_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE21043BCCCCCCCCCC
+- expected_values:
+    ID3_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE21043CCCCCCCCCCC
+- expected_values:
+    ID3_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE210441CCCCCCCCCC
+- expected_values:
+    ID3_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE210443CCCCCCCCCC

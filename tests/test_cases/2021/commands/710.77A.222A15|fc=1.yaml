@@ -1,0 +1,23 @@
+command_id: 710.77A.222A15|fc=1
+test_cases:
+- expected_values:
+    ID3_ENERGY_BALANCE_LAST: 0
+  response: 77A07622A1500000003
+- expected_values:
+    ID3_ENERGY_BALANCE_LAST: 0
+  response: 77A07622A1500000005
+- expected_values:
+    ID3_ENERGY_BALANCE_LAST: 0
+  response: 77A07622A1500000015
+- expected_values:
+    ID3_ENERGY_BALANCE_LAST: 0.01
+  response: 77A07622A1500010004
+- expected_values:
+    ID3_ENERGY_BALANCE_LAST: 0.01
+  response: 77A07622A1500010015
+- expected_values:
+    ID3_ENERGY_BALANCE_LAST: 0.02
+  response: 77A07622A1500020004
+- expected_values:
+    ID3_ENERGY_BALANCE_LAST: 0.02
+  response: 77A07622A1500020015

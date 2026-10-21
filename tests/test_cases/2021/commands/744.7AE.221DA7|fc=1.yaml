@@ -1,0 +1,29 @@
+command_id: 744.7AE.221DA7|fc=1
+test_cases:
+- expected_values:
+    ID3_OBC_HIGH_V_OUTPUT: 398.1
+  response: 7AE05621DA70F8D
+- expected_values:
+    ID3_OBC_HIGH_V_OUTPUT: 398.8
+  response: 7AE05621DA70F94
+- expected_values:
+    ID3_OBC_HIGH_V_OUTPUT: 399.4
+  response: 7AE05621DA70F9A
+- expected_values:
+    ID3_OBC_HIGH_V_OUTPUT: 399.6
+  response: 7AE05621DA70F9C
+- expected_values:
+    ID3_OBC_HIGH_V_OUTPUT: 411
+  response: 7AE05621DA7100E
+- expected_values:
+    ID3_OBC_HIGH_V_OUTPUT: 411.1
+  response: 7AE05621DA7100F
+- expected_values:
+    ID3_OBC_HIGH_V_OUTPUT: 411.2
+  response: 7AE05621DA71010
+- expected_values:
+    ID3_OBC_HIGH_V_OUTPUT: 420.1
+  response: 7AE05621DA71069
+- expected_values:
+    ID3_OBC_HIGH_V_OUTPUT: 442.4
+  response: 7AE05621DA71148

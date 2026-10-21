@@ -1,0 +1,26 @@
+command_id: 712.77C.221812|fc=1
+test_cases:
+- expected_values:
+    ID3_STEER_WHEEL_ANGLE: -68
+  response: 77C056218121550
+- expected_values:
+    ID3_STEER_WHEEL_ANGLE: -40.375
+  response: 77C05621812162D
+- expected_values:
+    ID3_STEER_WHEEL_ANGLE: -39
+  response: 77C056218121638
+- expected_values:
+    ID3_STEER_WHEEL_ANGLE: -9.875
+  response: 77C056218121721
+- expected_values:
+    ID3_STEER_WHEEL_ANGLE: -3.75
+  response: 77C056218121752
+- expected_values:
+    ID3_STEER_WHEEL_ANGLE: -1.25
+  response: 77C056218121766
+- expected_values:
+    ID3_STEER_WHEEL_ANGLE: 1.625
+  response: 77C05621812177D
+- expected_values:
+    ID3_STEER_WHEEL_ANGLE: 20
+  response: 77C056218121810

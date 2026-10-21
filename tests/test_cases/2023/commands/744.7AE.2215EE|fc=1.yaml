@@ -1,0 +1,14 @@
+command_id: 744.7AE.2215EE|fc=1
+test_cases:
+- expected_values:
+    ID3_CHRGR_DUR_TOTAL: 30757
+  response: 7AE076215EE00007825
+- expected_values:
+    ID3_CHRGR_DUR_TOTAL: 35973
+  response: 7AE076215EE00008C85
+- expected_values:
+    ID3_CHRGR_DUR_TOTAL: 36116
+  response: 7AE076215EE00008D14
+- expected_values:
+    ID3_CHRGR_DUR_TOTAL: 37508
+  response: 7AE076215EE00009284

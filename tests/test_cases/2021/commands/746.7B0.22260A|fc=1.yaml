@@ -1,0 +1,20 @@
+command_id: 746.7B0.22260A|fc=1
+test_cases:
+- expected_values:
+    ID3_AAT_CABIN: 11
+  response: 7B00462260A7A
+- expected_values:
+    ID3_AAT_CABIN: 12
+  response: 7B00462260A7C
+- expected_values:
+    ID3_AAT_CABIN: 13
+  response: 7B00462260A7E
+- expected_values:
+    ID3_AAT_CABIN: 13.5
+  response: 7B00462260A7F
+- expected_values:
+    ID3_AAT_CABIN: 14
+  response: 7B00462260A80
+- expected_values:
+    ID3_AAT_CABIN: 16.5
+  response: 7B00462260A85

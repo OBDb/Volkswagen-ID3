@@ -1,0 +1,9 @@
+command_id: 710.77A.221512|fc=1
+test_cases:
+- expected_values:
+    ID3_HIGH_V_EM_HVBAT: 0
+    ID3_HVBAT_ENERGY: 0
+    ID3_NV_ENERGY: 0
+  response: |-
+    77A1008621512000000
+    77A210000AAAAAAAAAA

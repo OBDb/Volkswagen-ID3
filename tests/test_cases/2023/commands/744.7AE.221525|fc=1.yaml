@@ -1,0 +1,14 @@
+command_id: 744.7AE.221525|fc=1
+test_cases:
+- expected_values:
+    ID3_OBC_V_PROX_A: 4656
+  response: 7AE056215251230
+- expected_values:
+    ID3_OBC_V_PROX_A: 4662
+  response: 7AE056215251236
+- expected_values:
+    ID3_OBC_V_PROX_A: 4669
+  response: 7AE05621525123D
+- expected_values:
+    ID3_OBC_V_PROX_A: 4676
+  response: 7AE056215251244

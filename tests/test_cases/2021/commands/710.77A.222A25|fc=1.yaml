@@ -1,0 +1,14 @@
+command_id: 710.77A.222A25|fc=1
+test_cases:
+- expected_values:
+    ID3_BAT_INTERNAL_RES_RAW: 0
+  response: 77A04622A2500
+- expected_values:
+    ID3_BAT_INTERNAL_RES_RAW: 0.6
+  response: 77A04622A2503
+- expected_values:
+    ID3_BAT_INTERNAL_RES_RAW: 8.2
+  response: 77A04622A2529
+- expected_values:
+    ID3_BAT_INTERNAL_RES_RAW: 8.4
+  response: 77A04622A252A

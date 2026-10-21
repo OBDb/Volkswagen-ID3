@@ -1,0 +1,30 @@
+command_id: FC00.FE007B.221E0F|ta=7B,c=17
+test_cases:
+- expected_values:
+    ID3_HVBAT_T_MIN: 23.875
+    ID3_HVBAT_T_MIN_ID: 18
+  response: 17FE007B07621E0F05F80012
+- expected_values:
+    ID3_HVBAT_T_MIN: 24
+    ID3_HVBAT_T_MIN_ID: 18
+  response: 17FE007B07621E0F06000012
+- expected_values:
+    ID3_HVBAT_T_MIN: 24.125
+    ID3_HVBAT_T_MIN_ID: 18
+  response: 17FE007B07621E0F06080012
+- expected_values:
+    ID3_HVBAT_T_MIN: 24.25
+    ID3_HVBAT_T_MIN_ID: 18
+  response: 17FE007B07621E0F06100012
+- expected_values:
+    ID3_HVBAT_T_MIN: 24.375
+    ID3_HVBAT_T_MIN_ID: 17
+  response: 17FE007B07621E0F06180011
+- expected_values:
+    ID3_HVBAT_T_MIN: 24.375
+    ID3_HVBAT_T_MIN_ID: 18
+  response: 17FE007B07621E0F06180012
+- expected_values:
+    ID3_HVBAT_T_MIN: 24.5
+    ID3_HVBAT_T_MIN_ID: 2
+  response: 17FE007B07621E0F06200002

@@ -1,0 +1,20 @@
+command_id: 746.7B0.222622|fc=1
+test_cases:
+- expected_values:
+    ID3_FRONT_LEFT_T_FLAP_ACT: 49
+  response: 7B006622622007B62
+- expected_values:
+    ID3_FRONT_LEFT_T_FLAP_ACT: 59
+  response: 7B006622622008B76
+- expected_values:
+    ID3_FRONT_LEFT_T_FLAP_ACT: 64
+  response: 7B006622622009280
+- expected_values:
+    ID3_FRONT_LEFT_T_FLAP_ACT: 95
+  response: 7B00662262200C2BE
+- expected_values:
+    ID3_FRONT_LEFT_T_FLAP_ACT: 99
+  response: 7B00662262200C8C6
+- expected_values:
+    ID3_FRONT_LEFT_T_FLAP_ACT: 100
+  response: 7B00662262200CDC8
