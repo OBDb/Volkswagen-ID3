@@ -1,0 +1,17 @@
+command_id: 710.77A.222AB2|fc=1
+test_cases:
+- expected_values:
+    ID3_HVBAT_CAP: 41.2
+  response: 77A07622AB203380400
+- expected_values:
+    ID3_HVBAT_CAP: 50.8
+  response: 77A07622AB203F80401
+- expected_values:
+    ID3_HVBAT_CAP: 51.05
+  response: 77A07622AB203FD0400
+- expected_values:
+    ID3_HVBAT_CAP: 52.45
+  response: 77A07622AB204190400
+- expected_values:
+    ID3_HVBAT_CAP: 327.4
+  response: 77A07622AB219940401

@@ -1,0 +1,26 @@
+command_id: 746.7B0.22F449|fc=1
+test_cases:
+- expected_values:
+    ID3_APP_D: 0
+  response: 7B00462F44900
+- expected_values:
+    ID3_APP_D: 0.39216
+  response: 7B00462F44901
+- expected_values:
+    ID3_APP_D: 0.78431
+  response: 7B00462F44902
+- expected_values:
+    ID3_APP_D: 6.27451
+  response: 7B00462F44910
+- expected_values:
+    ID3_APP_D: 10.19608
+  response: 7B00462F4491A
+- expected_values:
+    ID3_APP_D: 49.41176
+  response: 7B00462F4497E
+- expected_values:
+    ID3_APP_D: 57.2549
+  response: 7B00462F44992
+- expected_values:
+    ID3_APP_D: 100
+  response: 7B00462F449FF

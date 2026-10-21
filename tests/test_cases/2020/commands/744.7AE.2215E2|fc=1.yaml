@@ -1,0 +1,8 @@
+command_id: 744.7AE.2215E2|fc=1
+test_cases:
+- expected_values:
+    ID3_CHRGR_COOLANT_T: 15
+  response: 7AE046215E237
+- expected_values:
+    ID3_CHRGR_COOLANT_T: 34
+  response: 7AE046215E24A

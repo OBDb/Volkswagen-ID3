@@ -1,0 +1,29 @@
+command_id: FC00.FE007B.22028C|ta=7B,c=17
+test_cases:
+- expected_values:
+    ID3_SOC_DISP: 46.37391
+  response: 17FE007B0462028C77
+- expected_values:
+    ID3_SOC_DISP: 47.26087
+  response: 17FE007B0462028C79
+- expected_values:
+    ID3_SOC_DISP: 48.14783
+  response: 17FE007B0462028C7B
+- expected_values:
+    ID3_SOC_DISP: 49.03478
+  response: 17FE007B0462028C7D
+- expected_values:
+    ID3_SOC_DISP: 49.47826
+  response: 17FE007B0462028C7E
+- expected_values:
+    ID3_SOC_DISP: 50.36522
+  response: 17FE007B0462028C80
+- expected_values:
+    ID3_SOC_DISP: 51.69565
+  response: 17FE007B0462028C83
+- expected_values:
+    ID3_SOC_DISP: 52.13913
+  response: 17FE007B0462028C84
+- expected_values:
+    ID3_SOC_DISP: 53.02609
+  response: 17FE007B0462028C86

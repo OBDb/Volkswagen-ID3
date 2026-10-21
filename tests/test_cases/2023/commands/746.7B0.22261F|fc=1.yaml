@@ -1,0 +1,17 @@
+command_id: 746.7B0.22261F|fc=1
+test_cases:
+- expected_values:
+    ID3_RECIRC_FLAP_CMD_STEPS: 154
+  response: 7B00562261F009A
+- expected_values:
+    ID3_RECIRC_FLAP_CMD_STEPS: 171
+  response: 7B00562261F00AB
+- expected_values:
+    ID3_RECIRC_FLAP_CMD_STEPS: 173
+  response: 7B00562261F00AD
+- expected_values:
+    ID3_RECIRC_FLAP_CMD_STEPS: 189
+  response: 7B00562261F00BD
+- expected_values:
+    ID3_RECIRC_FLAP_CMD_STEPS: 200
+  response: 7B00562261F00C8

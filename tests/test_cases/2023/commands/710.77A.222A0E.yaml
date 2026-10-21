@@ -1,0 +1,29 @@
+command_id: 710.77A.222A0E
+test_cases:
+- expected_values:
+    ID3_SSB_R: 0
+  response: 77A04622A0E00
+- expected_values:
+    ID3_SSB_R: 0.2
+  response: 77A04622A0E01
+- expected_values:
+    ID3_SSB_R: 0.8
+  response: 77A04622A0E04
+- expected_values:
+    ID3_SSB_R: 1
+  response: 77A04622A0E05
+- expected_values:
+    ID3_SSB_R: 7.6
+  response: 77A04622A0E26
+- expected_values:
+    ID3_SSB_R: 8.2
+  response: 77A04622A0E29
+- expected_values:
+    ID3_SSB_R: 8.4
+  response: 77A04622A0E2A
+- expected_values:
+    ID3_SSB_R: 27.6
+  response: 77A04622A0E8A
+- expected_values:
+    ID3_SSB_R: 29.2
+  response: 77A04622A0E92

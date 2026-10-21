@@ -1,0 +1,8 @@
+command_id: 746.7B0.22260C|fc=1
+test_cases:
+- expected_values:
+    ID3_FRONT_LEFT_DEFL_T: 39.96
+  response: 7B00462260C78
+- expected_values:
+    ID3_FRONT_LEFT_DEFL_T: 51.282
+  response: 7B00462260C9A

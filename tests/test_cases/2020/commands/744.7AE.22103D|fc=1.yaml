@@ -1,0 +1,17 @@
+command_id: 744.7AE.22103D|fc=1
+test_cases:
+- expected_values:
+    ID3_OBC_HVDC_C: 0
+  response: 7AE0562103D0000
+- expected_values:
+    ID3_OBC_HVDC_C: 4.8
+  response: 7AE0562103D0030
+- expected_values:
+    ID3_OBC_HVDC_C: 4.9
+  response: 7AE0562103D0031
+- expected_values:
+    ID3_OBC_HVDC_C: 5
+  response: 7AE0562103D0032
+- expected_values:
+    ID3_OBC_HVDC_C: 5.1
+  response: 7AE0562103D0033
