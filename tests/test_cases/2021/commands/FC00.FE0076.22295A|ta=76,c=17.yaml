@@ -1,0 +1,14 @@
+command_id: FC00.FE0076.22295A|ta=76,c=17
+test_cases:
+- expected_values:
+    ID3_ENG_ODO: 53198
+  response: 17FE00760662295A00CFCE
+- expected_values:
+    ID3_ENG_ODO: 53204
+  response: 17FE00760662295A00CFD4
+- expected_values:
+    ID3_ENG_ODO: 53229
+  response: 17FE00760662295A00CFED
+- expected_values:
+    ID3_ENG_ODO: 53230
+  response: 17FE00760662295A00CFEE

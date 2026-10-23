@@ -1,0 +1,8 @@
+command_id: FC00.FE007B.221EB2|ta=7B,c=17
+test_cases:
+- expected_values:
+    ID3_HVBAT_MOD_T_5: 21.75
+  response: 17FE007B05621EB201EE
+- expected_values:
+    ID3_HVBAT_MOD_T_5: 23
+  response: 17FE007B05621EB201F8

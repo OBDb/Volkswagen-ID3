@@ -1,0 +1,14 @@
+command_id: FC00.FE0076.22033B|ta=76,c=17
+test_cases:
+- expected_values:
+    ID3_MOTOR_TRQ_REAR: 14
+  response: 17FE00760562033B000E
+- expected_values:
+    ID3_MOTOR_TRQ_REAR: 16
+  response: 17FE00760562033B0010
+- expected_values:
+    ID3_MOTOR_TRQ_REAR: 21
+  response: 17FE00760562033B0015
+- expected_values:
+    ID3_MOTOR_TRQ_REAR: 22
+  response: 17FE00760562033B0016

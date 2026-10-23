@@ -1,0 +1,17 @@
+command_id: FC00.FE0076.220344|ta=76,c=17
+test_cases:
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 0
+  response: 17FE0076056203440000
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 17
+  response: 17FE0076056203440022
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 18
+  response: 17FE0076056203440024
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 20.5
+  response: 17FE0076056203440029
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 48
+  response: 17FE0076056203440060

@@ -1,0 +1,20 @@
+command_id: FC00.FE007B.221E3B|ta=7B,c=17
+test_cases:
+- expected_values:
+    ID3_DC_BATTERY_V: 385.75
+  response: 17FE007B05621E3B0607
+- expected_values:
+    ID3_DC_BATTERY_V: 387.5
+  response: 17FE007B05621E3B060E
+- expected_values:
+    ID3_DC_BATTERY_V: 388
+  response: 17FE007B05621E3B0610
+- expected_values:
+    ID3_DC_BATTERY_V: 388.75
+  response: 17FE007B05621E3B0613
+- expected_values:
+    ID3_DC_BATTERY_V: 417.75
+  response: 17FE007B05621E3B0687
+- expected_values:
+    ID3_DC_BATTERY_V: 423.75
+  response: 17FE007B05621E3B069F

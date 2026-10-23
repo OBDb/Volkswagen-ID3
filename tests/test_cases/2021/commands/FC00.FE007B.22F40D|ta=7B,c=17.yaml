@@ -1,0 +1,14 @@
+command_id: FC00.FE007B.22F40D|ta=7B,c=17
+test_cases:
+- expected_values:
+    ID3_VSS: 41
+  response: 17FE007B0462F40D29
+- expected_values:
+    ID3_VSS: 47
+  response: 17FE007B0462F40D2F
+- expected_values:
+    ID3_VSS: 116
+  response: 17FE007B0462F40D74
+- expected_values:
+    ID3_VSS: 124
+  response: 17FE007B0462F40D7C
