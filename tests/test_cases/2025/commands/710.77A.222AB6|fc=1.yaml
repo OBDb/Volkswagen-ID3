@@ -1,0 +1,27 @@
+command_id: 710.77A.222AB6|fc=1
+test_cases:
+- expected_values:
+    ID3_RANGE: 443
+  response: |-
+    77A100A622AB601BB01
+    77A21BB000000AAAAAA
+- expected_values:
+    ID3_RANGE: 443
+  response: |-
+    77A100A622AB601BB01
+    77A21BB00001AAAAAAA
+- expected_values:
+    ID3_RANGE: 444
+  response: |-
+    77A100A622AB601BC01
+    77A21BC000000AAAAAA
+- expected_values:
+    ID3_RANGE: 444
+  response: |-
+    77A100A622AB601BC01
+    77A21BC00001AAAAAAA
+- expected_values:
+    ID3_RANGE: 445
+  response: |-
+    77A100A622AB601BD01
+    77A21BD000000AAAAAA
