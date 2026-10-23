@@ -1,0 +1,17 @@
+command_id: FC00.FE0076.224675|ta=76,c=17
+test_cases:
+- expected_values:
+    ID3_HVBAT_V_TRAC: 386.5
+  response: 17FE0076056246750F19
+- expected_values:
+    ID3_HVBAT_V_TRAC: 386.8
+  response: 17FE0076056246750F1C
+- expected_values:
+    ID3_HVBAT_V_TRAC: 389
+  response: 17FE0076056246750F32
+- expected_values:
+    ID3_HVBAT_V_TRAC: 420.3
+  response: 17FE007605624675106B
+- expected_values:
+    ID3_HVBAT_V_TRAC: 422.3
+  response: 17FE007605624675107F

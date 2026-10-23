@@ -1,0 +1,14 @@
+command_id: FC00.FE007B.22028C|ta=7B,c=17
+test_cases:
+- expected_values:
+    ID3_SOC_DISP: 28.63478
+  response: 17FE007B0462028C4F
+- expected_values:
+    ID3_SOC_DISP: 29.07826
+  response: 17FE007B0462028C50
+- expected_values:
+    ID3_SOC_DISP: 76.97391
+  response: 17FE007B0462028CBC
+- expected_values:
+    ID3_SOC_DISP: 77.41739
+  response: 17FE007B0462028CBD

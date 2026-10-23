@@ -1,0 +1,20 @@
+command_id: FC00.FE007B.221E7F|ta=7B,c=17
+test_cases:
+- expected_values:
+    ID3_HVBAT_CELL_V_064: 3.568
+  response: 17FE007B05621E7F0A08
+- expected_values:
+    ID3_HVBAT_CELL_V_064: 3.581
+  response: 17FE007B05621E7F0A15
+- expected_values:
+    ID3_HVBAT_CELL_V_064: 3.59
+  response: 17FE007B05621E7F0A1E
+- expected_values:
+    ID3_HVBAT_CELL_V_064: 3.595
+  response: 17FE007B05621E7F0A23
+- expected_values:
+    ID3_HVBAT_CELL_V_064: 3.852
+  response: 17FE007B05621E7F0B24
+- expected_values:
+    ID3_HVBAT_CELL_V_064: 3.873
+  response: 17FE007B05621E7F0B39
