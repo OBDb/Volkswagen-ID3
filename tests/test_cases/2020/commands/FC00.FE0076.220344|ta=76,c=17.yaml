@@ -1,0 +1,29 @@
+command_id: FC00.FE0076.220344|ta=76,c=17
+test_cases:
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 0
+  response: 17FE0076056203440000
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 1
+  response: 17FE0076056203440002
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 4.5
+  response: 17FE0076056203440009
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 6
+  response: 17FE007605620344000C
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 13
+  response: 17FE007605620344001A
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 140.5
+  response: 17FE0076056203440119
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: -18.5
+  response: 17FE007605620344FFDB
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: -2.5
+  response: 17FE007605620344FFFB
+- expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: -1.5
+  response: 17FE007605620344FFFD
