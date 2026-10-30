@@ -1,0 +1,8 @@
+command_id: FC00.FE0076.22035E|ta=76,c=17
+test_cases:
+- expected_values:
+    ID3_HVBAT_I_ENG: -4.3
+  response: 17FE00760562035EFFD5
+- expected_values:
+    ID3_HVBAT_I_ENG: -0.3
+  response: 17FE00760562035EFFFD
