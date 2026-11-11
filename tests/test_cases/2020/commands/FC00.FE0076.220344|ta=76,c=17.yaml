@@ -16,6 +16,9 @@ test_cases:
     ID3_MOTOR_TRQ_RATED_FRONT: 13
   response: 17FE007605620344001A
 - expected_values:
+    ID3_MOTOR_TRQ_RATED_FRONT: 35.5
+  response: 17FE0076056203440047
+- expected_values:
     ID3_MOTOR_TRQ_RATED_FRONT: 140.5
   response: 17FE0076056203440119
 - expected_values:

@@ -1,6 +1,9 @@
 command_id: FC00.FE0076.223DEF|ta=76,c=17
 test_cases:
 - expected_values:
+    ID3_SOC: 16.5
+  response: 17FE007605623DEF0672
+- expected_values:
     ID3_SOC: 60.5
   response: 17FE007605623DEF17A2
 - expected_values:

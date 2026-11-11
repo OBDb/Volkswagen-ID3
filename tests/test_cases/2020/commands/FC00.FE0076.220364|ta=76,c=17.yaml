@@ -10,6 +10,9 @@ test_cases:
     ID3_HVAUX_PWR: 0.6
   response: 17FE0076056203640006
 - expected_values:
+    ID3_HVAUX_PWR: 0.7
+  response: 17FE0076056203640007
+- expected_values:
     ID3_HVAUX_PWR: 1
   response: 17FE007605620364000A
 - expected_values:

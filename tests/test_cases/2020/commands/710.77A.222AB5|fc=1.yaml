@@ -1,10 +1,10 @@
 command_id: 710.77A.222AB5|fc=1
 test_cases:
 - expected_values:
-    ID3_RANGE_EST_CAN: 44
+    ID3_RANGE_EST_CAN: 43
   response: |-
-    77A100D622AB5002C00
-    77A2100002C00000000
+    77A100D622AB5002B00
+    77A2100002B00000000
 - expected_values:
     ID3_RANGE_EST_CAN: 64
   response: |-
