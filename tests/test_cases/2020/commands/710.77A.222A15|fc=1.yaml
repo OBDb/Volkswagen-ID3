@@ -8,6 +8,9 @@ test_cases:
   response: 77A07622A1500000001
 - expected_values:
     ID3_ENERGY_BALANCE_LAST: 0.01
+  response: 77A07622A1500010002
+- expected_values:
+    ID3_ENERGY_BALANCE_LAST: 0.01
   response: 77A07622A1500010005
 - expected_values:
     ID3_ENERGY_BALANCE_LAST: 0.01

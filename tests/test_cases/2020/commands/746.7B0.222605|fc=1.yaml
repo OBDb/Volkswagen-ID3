@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     ID3_REFRIG_P: 10
   response: 7B00462260532
+- expected_values:
+    ID3_REFRIG_P: 10.4
+  response: 7B00462260534

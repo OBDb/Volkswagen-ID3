@@ -10,6 +10,9 @@ test_cases:
     ID3_HVAUX_I: 1.56
   response: 17FE007605620360009C
 - expected_values:
+    ID3_HVAUX_I: 1.81
+  response: 17FE00760562036000B5
+- expected_values:
     ID3_HVAUX_I: 2.56
   response: 17FE0076056203600100
 - expected_values:
