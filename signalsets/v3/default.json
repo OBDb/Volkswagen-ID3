@@ -41,11 +41,11 @@
   ]},
 { "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2AB5"}, "freq": 1, "dbgfilter": { "years": [2022, 2024], "from": 2026 },
   "signals": [
-    {"id": "ID3_RANGE_EST_CAN", "path": "Battery", "fmt": {"bix": 32, "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Estimated reserve range"}
+    {"id": "ID3_RANGE_EST_CAN", "path": "Battery", "fmt": {"bix": 32, "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Estimated reserve range", "suggestedMetric": "electricRange"}
   ]},
 { "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2AB6"}, "freq": 5, "dbgfilter": { "years": [2022, 2024], "from": 2026 },
   "signals": [
-    {"id": "ID3_RANGE", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "miles" }, "name": "Range remaining, displayed", "suggestedMetric": "electricRange"}
+    {"id": "ID3_RANGE", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "miles" }, "name": "Range remaining, displayed"}
   ]},
 { "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2AB7"}, "freq": 5, "dbgfilter": { "years": [2022, 2024], "from": 2026 },
   "signals": [
