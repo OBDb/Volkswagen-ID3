@@ -1039,7 +1039,7 @@
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "years": [2022], "from": 2024 },
   "signals": [
-    {"id": "ID3_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
+    {"id": "ID3_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "nullmax": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
 { "hdr": "FC00", "rax": "FE00B9", "pri": "17", "tst": "B9", "cmd": {"22": "465B"}, "freq": 1, "dbgfilter": { "years": [2021, 2022], "from": 2024 },
   "signals": [
