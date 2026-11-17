@@ -4,5 +4,8 @@ test_cases:
     ID3_VSS: 0
   response: 17FE007B0462F40D00
 - expected_values:
-    ID3_VSS: 255
+    ID3_VSS: 133
+  response: 17FE007B0462F40D85
+- expected_values:
+    ID3_VSS: null
   response: 17FE007B0462F40DFF
